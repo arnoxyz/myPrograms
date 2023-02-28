@@ -1,0 +1,34 @@
+
+h1,
+h2,
+h3{
+	color: white;	
+	background: black;
+	text-align: center;
+}
+h2{
+	font-size: 25px;
+}
+h3{
+	font-size: 15px;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+
+#vim{
+	background: green;
+}
+#tmux{
+	background: lightgreen;
+}
+#i3{
+	background: blue;
+}
+
+
+img{
+	height: auto;
+	width: 340px;
+}
